@@ -10,10 +10,6 @@
 
 #include "samd21g18a.h"
 
-/*
- * This enumeration needs to be revisited, with something similar to
- * FlashController_RxBlocking Module
- */
 typedef enum
 {
   FLASH_SUCCESS = 0,
