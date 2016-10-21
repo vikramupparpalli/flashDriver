@@ -2,7 +2,7 @@
  * @file
  * @brief Hardware Abstraction Layer for NVM Flash Memory
  *
- * Copyright (c) - General Electric - All rights reserved.
+ * Author : Vikram Upparpalli
  */
 
 #include "hal_nvm.h"
